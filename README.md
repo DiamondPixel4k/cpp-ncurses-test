@@ -24,4 +24,4 @@ sudo dnf install ncurses-devel
 
 To build the source code, just run *make* and then run the executable using *./game*
 
-(I haven't tested any of this outside linux)
+(I haven't tested any of this outside ubuntu)
