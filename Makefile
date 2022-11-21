@@ -1,2 +1,2 @@
 compile:
-	@gcc -o game game.cpp -lncurses
+	@g++ -o game game.cpp -lncurses
